@@ -435,7 +435,7 @@ public partial class Form1 : Form
                     var pm25Entry = mesConfigs.FirstOrDefault(x => x.Name == MeasurementEntry.ParticulateMatter2_5);
                     if (pm25Entry != null)
                     {
-                        newSet.ParticulateMatter2_5 = pm25Entry.ToMeasurement(Generator.GeneratePM2_5());
+                        newSet.ParticulateMatter2v5 = pm25Entry.ToMeasurement(Generator.GeneratePM2_5());
                     }
 
                     // PM10

@@ -22,7 +22,7 @@ internal class MeasurementEntry
     public static string CO2 = "CO2";
     public static string VOC = "VOC";
     public static string ParticulateMatter1 = "ParticulateMatter1";
-    public static string ParticulateMatter2_5 = "ParticulateMatter2_5";
+    public static string ParticulateMatter2_5 = "ParticulateMatter2v5";
     public static string ParticulateMatter10 = "ParticulateMatter10";
     public static string Formaldehyde = "Formaldehyde";
     public static string CO = "CO";

@@ -10,7 +10,7 @@ internal class MeasurementSet
     public Measurement? CO2 { get; set; } = default;
     public Measurement? VOC { get; set; } = default;
     public Measurement? ParticulateMatter1 { get; set; } = default;
-    public Measurement? ParticulateMatter2_5 { get; set; } = default;
+    public Measurement? ParticulateMatter2v5 { get; set; } = default;
     public Measurement? ParticulateMatter10 { get; set; } = default;
     public Measurement? Formaldehyde { get; set; } = default;
     public Measurement? CO { get; set; } = default;

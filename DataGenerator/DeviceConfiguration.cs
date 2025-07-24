@@ -59,7 +59,7 @@ internal class DeviceConfiguration
             },
             new MeasurementEntry()
             {
-                Name = "ParticulateMatter2_5",
+                Name = "ParticulateMatter2v5",
                 Label = "Particulate matter < 2.5[inch]",
                 Unit = "µg/m³"
             },
